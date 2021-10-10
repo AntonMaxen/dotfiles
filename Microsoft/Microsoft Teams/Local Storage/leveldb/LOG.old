@@ -1,0 +1,48 @@
+2021/09/28-19:52:38.026 da2 Reusing MANIFEST /home/mimslade/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
+2021/09/28-19:52:38.027 da2 Recovering log #241
+2021/09/28-19:52:38.028 da2 Reusing old log /home/mimslade/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/000241.log 
+2021/09/28-19:53:38.541 f80 Level-0 table #245: started
+2021/09/28-19:53:38.554 f80 Level-0 table #245: 343254 bytes OK
+2021/09/28-19:53:38.557 f80 Delete type=0 #241
+2021/09/28-20:21:40.930 f80 Level-0 table #247: started
+2021/09/28-20:21:40.938 f80 Level-0 table #247: 196332 bytes OK
+2021/09/28-20:21:40.940 f80 Delete type=0 #244
+2021/09/28-20:48:58.691 f80 Level-0 table #249: started
+2021/09/28-20:48:58.699 f80 Level-0 table #249: 51133 bytes OK
+2021/09/28-20:48:58.702 f80 Delete type=0 #246
+2021/09/28-20:48:58.702 f80 Compacting 4@0 + 1@1 files
+2021/09/28-20:48:58.714 f80 Generated table #250@0: 208 keys, 529659 bytes
+2021/09/28-20:48:58.714 f80 Compacted 4@0 + 1@1 files => 529659 bytes
+2021/09/28-20:48:58.716 f80 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/09/28-20:48:58.716 f80 Delete type=2 #242
+2021/09/28-20:48:58.716 f80 Delete type=2 #245
+2021/09/28-20:48:58.716 f80 Delete type=2 #240
+2021/09/28-20:48:58.716 f80 Delete type=2 #247
+2021/09/28-20:48:58.716 f80 Delete type=2 #249
+2021/09/28-21:44:58.683 f80 Level-0 table #252: started
+2021/09/28-21:44:58.689 f80 Level-0 table #252: 78613 bytes OK
+2021/09/28-21:44:58.692 f80 Delete type=0 #248
+2021/09/28-21:54:05.262 f80 Level-0 table #254: started
+2021/09/28-21:54:05.271 f80 Level-0 table #254: 72136 bytes OK
+2021/09/28-21:54:05.273 f80 Delete type=0 #251
+2021/09/28-22:40:58.632 f80 Level-0 table #256: started
+2021/09/28-22:40:58.639 f80 Level-0 table #256: 54463 bytes OK
+2021/09/28-22:40:58.642 f80 Delete type=0 #253
+2021/09/28-23:14:33.842 f80 Level-0 table #258: started
+2021/09/28-23:14:33.850 f80 Level-0 table #258: 61562 bytes OK
+2021/09/28-23:14:33.854 f80 Delete type=0 #255
+2021/09/28-23:14:33.854 f80 Compacting 4@0 + 1@1 files
+2021/09/28-23:14:33.876 f80 Generated table #259@0: 208 keys, 529657 bytes
+2021/09/28-23:14:33.876 f80 Compacted 4@0 + 1@1 files => 529657 bytes
+2021/09/28-23:14:33.878 f80 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/09/28-23:14:33.879 f80 Delete type=2 #256
+2021/09/28-23:14:33.879 f80 Delete type=2 #250
+2021/09/28-23:14:33.879 f80 Delete type=2 #258
+2021/09/28-23:14:33.879 f80 Delete type=2 #252
+2021/09/28-23:14:33.879 f80 Delete type=2 #254
+2021/09/29-00:15:26.402 f80 Level-0 table #261: started
+2021/09/29-00:15:26.408 f80 Level-0 table #261: 66791 bytes OK
+2021/09/29-00:15:26.410 f80 Delete type=0 #257
+2021/09/29-01:04:12.191 f80 Level-0 table #263: started
+2021/09/29-01:04:12.198 f80 Level-0 table #263: 58974 bytes OK
+2021/09/29-01:04:12.201 f80 Delete type=0 #260

@@ -1,0 +1,27 @@
+2021/10/06-17:48:36.768 1d80 Reusing MANIFEST /home/mimslade/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
+2021/10/06-17:48:36.769 1d80 Recovering log #262
+2021/10/06-17:48:36.769 1d80 Reusing old log /home/mimslade/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/000262.log 
+2021/10/06-17:49:37.275 1f8d Level-0 table #266: started
+2021/10/06-17:49:37.289 1f8d Level-0 table #266: 307825 bytes OK
+2021/10/06-17:49:37.292 1f8d Delete type=0 #262
+2021/10/06-17:50:37.274 1f8d Level-0 table #268: started
+2021/10/06-17:50:37.277 1f8d Level-0 table #268: 104735 bytes OK
+2021/10/06-17:50:37.280 1f8d Delete type=0 #265
+2021/10/06-17:50:37.280 1f8d Compacting 4@0 + 1@1 files
+2021/10/06-17:50:37.291 1f8d Generated table #269@0: 212 keys, 510486 bytes
+2021/10/06-17:50:37.291 1f8d Compacted 4@0 + 1@1 files => 510486 bytes
+2021/10/06-17:50:37.294 1f8d compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/10/06-17:50:37.294 1f8d Delete type=2 #263
+2021/10/06-17:50:37.294 1f8d Delete type=2 #259
+2021/10/06-17:50:37.294 1f8d Delete type=2 #266
+2021/10/06-17:50:37.294 1f8d Delete type=2 #261
+2021/10/06-17:50:37.294 1f8d Delete type=2 #268
+2021/10/06-18:44:57.963 1f8d Level-0 table #271: started
+2021/10/06-18:44:57.970 1f8d Level-0 table #271: 58732 bytes OK
+2021/10/06-18:44:57.972 1f8d Delete type=0 #267
+2021/10/06-19:34:05.880 1f8d Level-0 table #273: started
+2021/10/06-19:34:05.887 1f8d Level-0 table #273: 59572 bytes OK
+2021/10/06-19:34:05.889 1f8d Delete type=0 #270
+2021/10/06-19:59:11.339 1f8d Level-0 table #275: started
+2021/10/06-19:59:11.348 1f8d Level-0 table #275: 77946 bytes OK
+2021/10/06-19:59:11.351 1f8d Delete type=0 #272

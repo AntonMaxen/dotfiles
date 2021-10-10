@@ -1,0 +1,7 @@
+IdeaVIM
+com.jetbrains.intellij.datalore
+net.ashald.envfile
+ru.meanmail.plugin.requirements
+com.4lex4.intellij.solarized
+mobi.hsz.idea.gitignore
+NodeJS

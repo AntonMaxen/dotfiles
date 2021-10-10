@@ -1,0 +1,42 @@
+<application>
+  <component name="DimensionService">
+    <size key="GridCell.Tab.0.left.0.0.3440.1440" width="2324" height="127" />
+    <size key="GridCell.Tab.0.center.0.0.3440.1440" width="2324" height="127" />
+    <size key="GridCell.Tab.0.right.0.0.3440.1440" width="2324" height="127" />
+    <size key="GridCell.Tab.0.bottom.0.0.3440.1440" width="2324" height="127" />
+    <size key="GridCell.Tab.1.left.0.0.3440.1440" width="2506" height="497" />
+    <size key="GridCell.Tab.1.center.0.0.3440.1440" width="2506" height="497" />
+    <size key="GridCell.Tab.1.right.0.0.3440.1440" width="2506" height="497" />
+    <size key="GridCell.Tab.1.bottom.0.0.3440.1440" width="2506" height="497" />
+    <size key="GridCell.Tab.0.left.3440.0.1920.1080" width="1876" height="232" />
+    <size key="GridCell.Tab.0.center.3440.0.1920.1080" width="1876" height="232" />
+    <size key="GridCell.Tab.0.right.3440.0.1920.1080" width="1876" height="232" />
+    <size key="GridCell.Tab.0.bottom.3440.0.1920.1080" width="1876" height="232" />
+  </component>
+  <component name="WindowManager">
+    <frame x="3859" y="36" width="948" height="1015" extendedState="4" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+    </layout>
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="1730" y="483" width="443" height="520" key="FileChooserDialogImpl" timestamp="1630856566217">
+      <screen x="72" y="27" width="3368" height="1413" />
+    </state>
+    <state x="1730" y="483" width="443" height="520" key="FileChooserDialogImpl/72.27.3368.1413/3440.0.1920.1080" timestamp="1630856566217" />
+    <state width="454" height="214" key="ShowUsagesActions.dimensionServiceKey" timestamp="1631194243340">
+      <screen x="0" y="27" width="3440" height="1380" />
+    </state>
+    <state width="454" height="214" key="ShowUsagesActions.dimensionServiceKey/0.27.3440.1380/3440.0.1920.1080" timestamp="1631194243340" />
+    <state width="444" height="104" key="ShowUsagesActions.dimensionServiceKey/72.27.3368.1413/3440.0.1920.1080" timestamp="1630911311028" />
+    <state x="865" y="746" width="1678" height="1335" key="WELCOME_SCREEN" timestamp="1632665875969">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="865" y="746" width="1678" height="1335" key="WELCOME_SCREEN/0.0.3440.1440/3440.0.1920.1080" timestamp="1632665875969" />
+  </component>
+</application>

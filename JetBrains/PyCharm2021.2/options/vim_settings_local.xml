@@ -1,0 +1,214 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">ZmM=</entry>
+        <entry encoding="base64">LnR1cnRsZQ==</entry>
+        <entry encoding="base64">Y29yb25h</entry>
+        <entry encoding="base64">MjU1</entry>
+        <entry encoding="base64">Zw==</entry>
+        <entry encoding="base64">d2lkdGg=</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JzwsJz4vLnR1cnRsZS8=</entry>
+        <entry encoding="base64">JzwsJz5zLy50dXJ0bGUvL2c=</entry>
+        <entry encoding="base64">JzwsJz4vMjU1LzAvZw==</entry>
+        <entry encoding="base64">JzwsJz4vd2lkaHQvaGVpZ2h0L2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3dpZHRoL2hlaWdodC9n</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/dev/projects/repo/python_game/main.py" timestamp="1631541759312">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="16" column="21" />
+        <mark key="." line="16" column="20" />
+        <mark key="^" line="16" column="21" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/repo/python_game/game/models/enemy.py" timestamp="1631543050719">
+        <mark key="[" line="12" column="39" />
+        <mark key="]" line="13" column="31" />
+        <mark key="." line="13" column="30" />
+        <mark key="^" line="13" column="31" />
+      </file>
+      <file name="/Python Console" timestamp="1631542461079">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/repo/learning/assignment/assignment2.py" timestamp="1631896100800">
+        <mark key="[" line="40" column="5" />
+        <mark key="]" line="40" column="6" />
+        <mark key="." line="40" column="5" />
+        <mark key="^" line="40" column="6" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/repo/learning/2021/w37/python_game/game/models/actor.py" timestamp="1631531575834">
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="1" column="13" />
+        <mark key="^" line="1" column="13" />
+        <mark key="." line="1" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/repo/anodet/anodet/visualization/heatmap.py" timestamp="1631809709199">
+        <mark key="[" line="44" column="21" />
+        <mark key="]" line="44" column="32" />
+        <mark key="^" line="44" column="32" />
+        <mark key="." line="44" column="31" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/repo/python_game/game/models/behavior.py" timestamp="1631541346532">
+        <mark key="[" line="4" column="38" />
+        <mark key="]" line="4" column="37" />
+        <mark key="." line="4" column="36" />
+        <mark key="^" line="4" column="37" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/repo/python_game/game/models/bullet.py" timestamp="1631542342800">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/repo/python_game/game/models/player.py" timestamp="1631539257197">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="9" column="24" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/repo/python_game/game/models/actor.py" timestamp="1631542992241">
+        <mark key="'" line="23" column="4" />
+        <mark key="[" line="56" column="31" />
+        <mark key="]" line="58" column="20" />
+        <mark key="." line="58" column="19" />
+        <mark key="^" line="58" column="20" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/repo/learning/2021/w37/python_game/game/app.py" timestamp="1631531507505">
+        <mark key="[" line="1" column="5" />
+        <mark key="]" line="1" column="6" />
+        <mark key="." line="1" column="5" />
+        <mark key="^" line="1" column="6" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/repo/python_game/game/controller.py" timestamp="1631541169608">
+        <mark key="[" line="7" column="25" />
+        <mark key="]" line="7" column="40" />
+        <mark key="^" line="7" column="40" />
+        <mark key="." line="7" column="39" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/repo/python_game/game/ai.py" timestamp="1631542459765">
+        <mark key="[" line="19" column="36" />
+        <mark key="]" line="19" column="36" />
+        <mark key="." line="19" column="35" />
+        <mark key="^" line="19" column="36" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/repo/learning/2021/w37/python_game/main.py" timestamp="1631531476231">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="4" column="15" />
+        <mark key="^" line="4" column="15" />
+        <mark key="." line="4" column="14" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/repo/python_game/game/models/canshoot.py" timestamp="1631539172708">
+        <mark key="[" line="9" column="48" />
+        <mark key="]" line="9" column="64" />
+        <mark key="." line="9" column="63" />
+        <mark key="^" line="9" column="64" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/repo/python_game/game/models/__init__.py" timestamp="1631537124267">
+        <mark key="[" line="0" column="37" />
+        <mark key="]" line="1" column="37" />
+        <mark key="." line="1" column="36" />
+        <mark key="^" line="1" column="37" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/repo/anodet/main.py" timestamp="1631809296569">
+        <mark key="[" line="113" column="20" />
+        <mark key="]" line="113" column="21" />
+        <mark key="^" line="113" column="21" />
+        <mark key="." line="113" column="20" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/repo/python_game/game/app.py" timestamp="1631540149776">
+        <mark key="[" line="37" column="33" />
+        <mark key="]" line="37" column="31" />
+        <mark key="." line="37" column="30" />
+        <mark key="^" line="37" column="31" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/repo/python_game/game/models/living.py" timestamp="1631540775729">
+        <mark key="[" line="31" column="28" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="32" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="21" column="48" filename="$USER_HOME$/dev/projects/repo/learning/assignment/sep6-sep13/main.py" />
+      <jump line="17" column="37" filename="$USER_HOME$/dev/projects/repo/learning/2021/w36/corona/generate-data.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/projects/repo/learning/2021/w36/corona/generate-data.py" />
+      <jump line="41" column="53" filename="$USER_HOME$/dev/projects/repo/learning/assignment/pain/abstraction-paint/paint/old.py" />
+      <jump line="3" column="9" filename="$USER_HOME$/dev/projects/repo/learning/assignment/pain/abs-paint/paint/alternative.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/projects/repo/learning/assignment/pain/abs-paint/paint/alternative.py" />
+      <jump line="30" column="37" filename="$USER_HOME$/dev/projects/repo/learning/assignment/pain/abs-paint/paint/old.py" />
+      <jump line="38" column="8" filename="$USER_HOME$/dev/projects/repo/learning/assignment/pain/abs-paint/paint/old.py" />
+      <jump line="59" column="41" filename="$USER_HOME$/dev/projects/repo/learning/assignment/sep6-sep13/main.py" />
+      <jump line="11" column="9" filename="$USER_HOME$/dev/projects/repo/numpy-plot/corona/tests/test_db.py" />
+      <jump line="12" column="9" filename="$USER_HOME$/dev/projects/repo/numpy-plot/corona/tests/test_db.py" />
+      <jump line="25" column="9" filename="$USER_HOME$/dev/projects/repo/numpy-plot/corona/tests/test_db.py" />
+      <jump line="17" column="11" filename="$USER_HOME$/dev/projects/repo/python_game/game/models/actor.py" />
+      <jump line="23" column="4" filename="$USER_HOME$/dev/projects/repo/python_game/game/models/actor.py" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="8">
+        <text encoding="base64">cmVkdWNlKGxhbWJkYSBhLCBiOiBbKmEsIHsqKmJbMV0sICduYW1lJzogYlswXX1dLCBteV9kaWN0Lml0ZW1zKCksIFtdKQ==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">Ww==</text>
+      </register>
+      <register name="." type="4">
+        <text encoding="base64">LCBjb2xvcl9jbWFw</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">d2lkdGg=</text>
+      </register>
+      <register name="0" type="8">
+        <text encoding="base64">cmVkdWNlKGxhbWJkYSBhLCBiOiBbKmEsIHsqKmJbMV0sICduYW1lJzogYlswXX1dLCBteV9kaWN0Lml0ZW1zKCksIFtdKQ==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHByaW50KGIpCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CgoKCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZGVmIG0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJlZHVjZShzb21lLCBteV9kaWN0Lml0ZW1zKCksIHt9KQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGZvciBpdGVtIGluIG15X2RpY3QuaXRlbXMoKToKICAgICAgICAjcHJpbnQoaXRlbSkKICAgICAgICBwYXNzCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaW50KHJlZHVjZShsYW1iZGEgYSwgYjogW3ByaW50KGEpLCBwcmludChiKV0sIG15X2RpY3QuaXRlbXMoKSwgeyB9KSkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByaW50KG15X3JlZHVjZShteV9kaWN0KSkK</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">JzwsJz5zL3dpZHRoL2hlaWdodC9n</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">Zw==</last-search>
+      <last-substitute encoding="base64">d2lkdGg=</last-substitute>
+      <last-replace encoding="base64">aGVpZ2h0</last-replace>
+      <last-pattern encoding="base64">d2lkdGg=</last-pattern>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+</application>

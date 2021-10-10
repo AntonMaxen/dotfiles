@@ -1,0 +1,226 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="37" l="1631797913956" />
+    </e>
+    <e n="$Delete">
+      <i c="17" l="1631793513510" />
+    </e>
+    <e n="$Paste">
+      <i c="8" l="1631531624570" />
+    </e>
+    <e n="$Undo">
+      <i c="257" l="1631809736117" />
+    </e>
+    <e n="ActivateDebugToolWindow">
+      <i c="2" l="1630808159538" />
+    </e>
+    <e n="ActivateProblemsViewToolWindow">
+      <i c="2" l="1630808161028" />
+    </e>
+    <e n="ActivateProjectToolWindow">
+      <i c="3" l="1630808153393" />
+    </e>
+    <e n="ActivatePythonConsoleToolWindow">
+      <i c="2" l="1630808156315" />
+    </e>
+    <e n="ActivateRunToolWindow">
+      <i c="5" l="1630810539454" />
+    </e>
+    <e n="ActivateTerminalToolWindow">
+      <i c="2" l="1630808154966" />
+    </e>
+    <e n="ActivateVersionControlToolWindow">
+      <i c="1" l="1631795988001" />
+    </e>
+    <e n="AutoIndentLines">
+      <i c="119" l="1631797463432" />
+    </e>
+    <e n="Back">
+      <i c="2" l="1631531826512" />
+    </e>
+    <e n="CloseAllEditors">
+      <i c="1" l="1630926198845" />
+    </e>
+    <e n="CloseAllEditorsButActive">
+      <i c="2" l="1631476265807" />
+    </e>
+    <e n="CloudConfigAction">
+      <i c="1" l="1630808111649" />
+    </e>
+    <e n="CopyPaths">
+      <i c="2" l="1631535691459" />
+    </e>
+    <e n="Debug">
+      <i c="9" l="1631542461308" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="8357" l="1631809708476" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="760" l="1631809690140" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="7" l="1631542749880" />
+    </e>
+    <e n="EditorDelete">
+      <i c="30" l="1631511534386" />
+    </e>
+    <e n="EditorDown">
+      <i c="86" l="1631795386411" />
+    </e>
+    <e n="EditorEnter">
+      <i c="1467" l="1631799877935" />
+    </e>
+    <e n="EditorEscape">
+      <i c="8" l="1631539218295" />
+    </e>
+    <e n="EditorLeft">
+      <i c="9" l="1631542846445" />
+    </e>
+    <e n="EditorStartNewLine">
+      <i c="10" l="1631516503333" />
+    </e>
+    <e n="EditorTab">
+      <i c="164" l="1631798257830" />
+    </e>
+    <e n="EditorUp">
+      <i c="7" l="1631461960341" />
+    </e>
+    <e n="FileChooser.NewFolder">
+      <i c="3" l="1631531609071" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="92" l="1631809676805" />
+    </e>
+    <e n="GotoTypeDeclaration">
+      <i c="1" l="1630917162281" />
+    </e>
+    <e n="HideAllWindows">
+      <i c="1" l="1630931013019" />
+    </e>
+    <e n="NewDir">
+      <i c="10" l="1631531319686" />
+    </e>
+    <e n="NewDirectoryProject">
+      <i c="2" l="1631531596285" />
+    </e>
+    <e n="NewPythonFile">
+      <i c="40" l="1631793667193" />
+    </e>
+    <e n="NewScratchFile">
+      <i c="2" l="1630935701514" />
+    </e>
+    <e n="OpenFile">
+      <i c="2" l="1631808363704" />
+    </e>
+    <e n="PasteMultiple">
+      <i c="39" l="1631793703052" />
+    </e>
+    <e n="Profiler">
+      <i c="2" l="1631033870431" />
+    </e>
+    <e n="QuickJavaDoc">
+      <i c="9" l="1631793953092" />
+    </e>
+    <e n="RenameElement">
+      <i c="4" l="1631525575846" />
+    </e>
+    <e n="RevealIn">
+      <i c="2" l="1631041844626" />
+    </e>
+    <e n="Run">
+      <i c="687" l="1631808601981" />
+    </e>
+    <e n="RunClass">
+      <i c="55" l="1631808440518" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="2" l="1631476621498" />
+    </e>
+    <e n="SelectNextOccurrence">
+      <i c="1" l="1631895777182" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="1" l="1631524770413" />
+    </e>
+    <e n="ShowPopupMenu">
+      <i c="1" l="1631534846505" />
+    </e>
+    <e n="ShowSettings">
+      <i c="9" l="1631189655528" />
+    </e>
+    <e n="SplitVertically">
+      <i c="1" l="1631029985834" />
+    </e>
+    <e n="Stop">
+      <i c="231" l="1631543083360" />
+    </e>
+    <e n="Terminal.OpenInTerminal">
+      <i c="1" l="1631476226632" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="2" l="1630856563678" />
+    </e>
+    <e n="com.intellij.execution.impl.ConsoleViewImpl$DeleteBackspaceHandler">
+      <i c="2" l="1630858620020" />
+    </e>
+    <e n="com.intellij.execution.impl.ConsoleViewImpl$EnterHandler">
+      <i c="2" l="1630858620993" />
+    </e>
+    <e n="com.intellij.ide.ReopenProjectAction">
+      <i c="16" l="1632665878437" />
+    </e>
+    <e n="com.intellij.notification.EventLogConsole$ClearLogAction">
+      <i c="1" l="1630938490112" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="3" l="1631510077705" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
+      <i c="13340" l="1631809737952" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="56" l="1631793505161" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="1" l="1631029478516" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$4">
+      <i c="5" l="1631526272264" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.DockToolWindowAction">
+      <i c="4" l="1631798226272" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+      <i c="1" l="1631190292565" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.ToolWindowImpl$RemoveStripeButtonAction">
+      <i c="7" l="1630810536487" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$5">
+      <i c="2" l="1632318643389" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$AddButton">
+      <i c="2" l="1631510139327" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$RemoveButton">
+      <i c="2" l="1631510083198" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
+      <i c="2" l="1631029476897" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveUpAction">
+      <i c="2" l="1631029477844" />
+    </e>
+    <e n="com.jetbrains.python.scientific.figures.PyPlotToolWindow$CloseAllPlotsAction">
+      <i c="1" l="1630813866639" />
+    </e>
+    <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
+      <i c="28" l="1631542701282" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="3" l="1631510098123" />
+    </e>
+  </component>
+</application>

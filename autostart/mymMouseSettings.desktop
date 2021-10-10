@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=mymMouseSettings
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=mymMouseSettings
+Name=mymMouseSettings
+Comment[en_US]=Sets default mouse settings
+Comment=Sets default mouse settings
